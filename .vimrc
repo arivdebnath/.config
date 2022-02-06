@@ -44,4 +44,5 @@ inoremap [ []<Esc>ha
 inoremap " ""<Esc>ha
 inoremap ' ''<Esc>ha
 inoremap ` ``<Esc>ha
+" for entering normal mode
 inoremap jk <Esc>
