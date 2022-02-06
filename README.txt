@@ -1,2 +1,1 @@
-# Heading
-This repository contains code that were written while learning the use of Git and GitHub.
+This repository was created while learning the use of git and github.
