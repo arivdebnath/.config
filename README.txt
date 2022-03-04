@@ -1,1 +1,5 @@
-This repository was created while learning the use of git and github.
+List of extensions and tools:
+- Vitals
+- Top bar organizer
+- autocpu-freq
+- 
