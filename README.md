@@ -1,2 +1,6 @@
 # Configuration Files
-Contains various config files.
+Contains config files for 
+- Vim
+- ZSH
+- BASH
+
