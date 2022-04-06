@@ -2,7 +2,7 @@ List of extensions and tools:
 - Vitals
 - Top bar organizer
 - autocpu-freq
-- TLP
+- TLP (if used with autocpu-freq, the cofiguration for cpu in TLP must be disabled)
 
 Transmission
 Timeshift - for backups
