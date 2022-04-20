@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Monokai.sublime-color-scheme", 
+	"ignored_packages": [
+	],
+	"font_size": 11,
+	"font_face": "JetBrains Mono",
+	"gtk_client_side_window_decorations": true,
+	"save_on_focus_lost": true,
+}
