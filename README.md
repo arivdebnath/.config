@@ -1,7 +1,8 @@
 # Configuration Files
 Contains config files for 
 - Vim
-- ZSH
-- BASH
+- Shellrc
+  - ZSH
+  - BASH
 - Sublime Text 
 
